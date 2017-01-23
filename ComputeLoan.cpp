@@ -9,7 +9,7 @@ int main()
   double ai = 0; // 연간 이자율
   double noy = 0;; // 대출 연수
   double mi = 0; // 월간 이자율
-  double denominator = 0; //분모
+  double denfddfnator = 0; //분모
   double montlyfee = 0; // 매월 납입금
 
   std::cout << "대출액을 입력 해주십시오\n";
